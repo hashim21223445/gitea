@@ -78,7 +78,7 @@
     "@types/throttle-debounce": "5.0.2",
     "@types/tinycolor2": "1.4.6",
     "@types/toastify-js": "1.12.3",
-    "@typescript-eslint/eslint-plugin": "7.16.0",
+    "@typescript-eslint/eslint-plugin": "8.18.0",
     "@typescript-eslint/parser": "7.16.0",
     "@vitejs/plugin-vue": "5.0.5",
     "eslint": "8.57.0",
